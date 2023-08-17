@@ -18,7 +18,7 @@ public class Main {
         System.out.println(d);
 
         System.out.println(Short.MAX_VALUE);
-
-        System.out.println((Short.MIN_VALUE));
+        System.out.println(Short.MIN_VALUE);
+        System.out.println(Integer.MAX_VALUE);
     }
 }
