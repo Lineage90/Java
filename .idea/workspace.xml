@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a8fadd-d12f-440d-b3f4-bd7e2e2099f6" name="변경" comment="JAVA">
-      <change afterPath="$PROJECT_DIR$/src/main/java/constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pkg/ModifierTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +58,10 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2U5tOtRYokvX4No9gfZHX8bhKJ9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -111,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692599141250</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JAVA">
+      <option name="closed" value="true" />
+      <created>1692693148553</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692693148553</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
